@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 
 def remove_char_at(str, n):
     """Create a copy of the string wothout the character at index n."""
